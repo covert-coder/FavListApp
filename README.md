@@ -12,4 +12,4 @@ The use of the Adapter and Adapter Manager compartmentalizes tasks and increases
 handling from the MainActivity.  RecyclerViews reduce resource allocation while running the app since only the active views are loaded and
 more are only loaded on-demand through user scrolling.
 
-The code has been extensively commented to explain the rational and inter=relatedness of all code and classes.
+The code has been extensively commented to explain the rationale and inter=relatedness of all code and classes.
