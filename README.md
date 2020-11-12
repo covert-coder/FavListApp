@@ -10,4 +10,4 @@ This demonstrates the use of recyclerView but also informs the user in the use o
 its retrieval.
 The use of the Adapter and Adapter Manager compartmentalizes tasks and increases the modularity of the app design thereby isolating data
 handling from the MainActivity.  RecyclerViews reduce resource allocation while running the app since only the active views are loaded and
-more are loaded on-demand through scrolling.
+more are only loaded on-demand through user scrolling.
